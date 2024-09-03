@@ -1,6 +1,9 @@
 # Invenio RDM 2025 Partner Meeting
 
+<img alt="Image" src="https://example.com/image.jpg">
+
 #### The Invenio RDM 2025 partner meeting and workshop will take place from March 24 to 28, 2025 at Hamburg University.
+The event is open to all partners of the [Invenio RDM project](https://inveniosoftware.org/products/rdm/). The goal is to bring together the partners of the project to discuss the current status of the project, the next steps, and to foster collaboration between the partners.
 
 ## Location
 The meeting will take place at [University Main Building, East Wing](https://maps.app.goo.gl/rcRN1qw7tDs4WBoy8), Edmund-Siemers-Allee 1, 20146 Hamburg, Germany. 
