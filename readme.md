@@ -5,7 +5,8 @@ The event is open to all partners of the [Invenio RDM project](https://invenioso
 
 ## Topics
 The meeting will tackle all topics related to the Invenio RDM project, including but not limited to development and roadmap, deployment and maintenance, dissemination and onboarding as well as governance and responsibilities.  
-The schedule of the meeting will be determined as an open space event, where the participants will decide on the topics to be discussed, with the first day dedicated to presentations. Topic suggestions for the presentations as well as the open space sessions can be submitted in advance through a survey on the registration page.
+The schedule of the meeting will be determined as an open space event, where the participants will decide on the topics to be discussed, with the first day dedicated to presentations. 
+Please suggest topics that you want either to discuss in the Open Space sessions or present on the first afernoon in advance, using [this spreadsheet](https://cloud.uni-hamburg.de/s/Rdbb7TzJMr8kQRN).
 
 ## Registration
 Registration [is now open](https://www.conferences.uni-hamburg.de/e/invenio) and will close on March 17, 2025. If you are not a member of the Invenio RDM project and would like to join the meeting, please get in contact via email to [Kai Wörner](mailto:kai.woerner@uni-hamburg.de).
