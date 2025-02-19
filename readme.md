@@ -14,9 +14,11 @@ Please suggest topics that you want either to discuss in the Open Space sessions
 As part of the presentations on the first day and as a salute to the OR repository rodeo, we introduce the "Invenio-Instance-Rodeo". It is meant as a platform for partners to present their (preferably live, but also approaching launch) Invenio instances, show how they differ from vanilla instances, and discuss the challenges and solutions encountered. These presentations should be as short as possible (~5 Minutes) and feature at least one screenshot. We will only allow for brief questions, but there will be plenty of time during the workshop to discuss details.  
 ### If you want to present your instance, please indicate so in the [spreadsheet](https://cloud.uni-hamburg.de/s/8xg6eFYm4QoM7cC).
 
+## Dinner
+We will be having dinner toghether on Wednesday, March 26, at around 19:30h. We reserved 30 places at the [Abaton Bistro](http://www.abaton-bistro.de/), just a short walk from the workshop site. It's a-la-carte, everyone pays for himself. If you'd like to join, please write me an email to kai.woerner@uni-hamburg.de.
+
 ## Registration
 Registration [is now open](https://www.conferences.uni-hamburg.de/e/invenio) and will close on March 17, 2025. If you are not a member of the Invenio RDM project and would like to join the meeting, please get in contact via email to [Kai Wörner](mailto:kai.woerner@uni-hamburg.de).
-
 ## Location
 The meeting will take place at [University Main Building, East Wing](https://maps.app.goo.gl/rcRN1qw7tDs4WBoy8), Edmund-Siemers-Allee 1, 20146 Hamburg, Germany. 
 ### Arrival by Train
