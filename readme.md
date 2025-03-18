@@ -47,6 +47,9 @@ We will be following U Münster's example and keep the pre-planned agenda to a m
 ## Accommodation
 Hamburg is a very "walkable" city, so [all hotels in and around the city center](https://www.booking.com/searchresults.de.html?label=gen173nr-1BCAEoggI46AdIM1gEaDuIAQGYAQe4AQfIAQzYAQHoAQGIAgGoAgO4AryL3LYGwAIB0gIkMGVmNTI3MWUtMThjZi00ZDJkLTliZTQtZGVjOGJiZTAwZTky2AIF4AIB&sid=a55c0198137463bab24f154a0206ec9f&aid=304142&ss=Edmund-Siemers-Allee+1%2C+Eimsb%C3%BCttel%2C+Deutschland&efdco=1&lang=de&dest_id=ChIJ0a2BwDyPsUcRQyZnMbVZnvY&dest_type=region&place_id=ChIJ0a2BwDyPsUcRQyZnMbVZnvY&latitude=53.5629908&longitude=9.9884069&ac_position=0&ac_click_type=g&ac_langcode=de&ac_suggestion_list_length=1&search_selected=true&search_pageview_id=63655a1e82881072&checkin=2025-03-23&checkout=2025-03-28&group_adults=1&no_rooms=1&group_children=0&order=distance_from_search&nflt=price%3DEUR-min-150-1%3Bdistance%3D3000) are pretty good options, especially the cheaper hotels by the large companies near the sightseeing hotspots can be good value.
 
+## Getting around
+The location of the workshop is at the main campus of the University of Hamburg, and just 5 minutes away from the Dammtor train station. More info on where to get lunch and how to get around Hamburg can be found [here](gettingaround.md).
+
 ## Contact
 The meeting is organized by the   
 Center for Sustainable Research Data Management  
