@@ -18,7 +18,7 @@ As part of the presentations on the first day and as a salute to the OR reposito
 We will be having dinner toghether on Wednesday, March 26, at around 19:30h. We reserved 30 places at the [Abaton Bistro](http://www.abaton-bistro.de/), just a short walk from the workshop site. It's a-la-carte, everyone pays for himself. If you'd like to join, please write me an email to <kai.woerner@uni-hamburg.de>.
 
 ## Registration
-Registration [is now open](https://www.conferences.uni-hamburg.de/e/invenio) and will close on March 21, 2025. If you are not a member of the Invenio RDM project and would like to join the meeting, please get in contact via email to [Kai Wörner](mailto:kai.woerner@uni-hamburg.de).
+Registration [is now open](https://www.conferences.uni-hamburg.de/e/invenio) and will close on March 20, 2025. If you are not a member of the Invenio RDM project and would like to join the meeting, please get in contact via email to [Kai Wörner](mailto:kai.woerner@uni-hamburg.de).
 ## Location
 The meeting will take place at [University Main Building, East Wing](https://maps.app.goo.gl/rcRN1qw7tDs4WBoy8), Edmund-Siemers-Allee 1, 20146 Hamburg, Germany. 
 ### Arrival by Train
