@@ -14,13 +14,11 @@ The Cafeterias and Mensas (student cafeteria) on campus offer a variety of meals
 There are several cafes and restaurants within walking distance, offering a variety of cuisines. Some popular options include:
 
 
+## Sightseeing
+The program leaves very little time for sightseeing :grin:, but if you have some time left, there are a lot of things you could do in Hamburg.  
 
-[]: #   
-[]: # - Visit the [Miniatur Wunderland](https://www.miniatur-wunderland.com/) - the world's largest model railway exhibition
-[]: # - Take a stroll along the [Elbphilharmonie](https://www.elbphilharmonie.de/en/) - a concert hall and landmark of Hamburg
-[]: # - Explore the [Speicherstadt](https://www.historic-harbour-hamburg.com/en/speicherstadt/) - a UNESCO World Heritage site and historic warehouse district
-[]: # - Visit the [Hamburg Fish Market](https://www.hafengeburtstag-hamburg.de/en/hamburg-fish-market/) - a lively market with fresh seafood and local produce
-[]: # - Take a boat tour of the [Harbour](https://www.hafen-hamburg.de/en) - one of the largest ports in Europe
+You could always consult the usual “Top X” lists on e.g. Tripadvisor to scout for the top sights, but these lists usually lack the option to simply roam the lively districts of the city, like the Schanzen– or Karoviertel, Altona or St. Pauli, which has more to offer than its infamous red light district.
 
-[] asdf
+If you are just looking for a place to have a drink or a bite to eat, you can find a lot of nice places in the Schanzenviertel, Karoviertel, and St. Pauli, which are all easyly reachable from the venue. 
 
+This does not mean that you should not visit Hamburg’s top sights. The Elbphilharmonie, St. Michaelis, Speicherstadt, Miniatur Wunderland and the Old Elbe Tunnel are all in walkable distance from each other in direct vincinity of the harbour.
