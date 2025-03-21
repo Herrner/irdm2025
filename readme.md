@@ -38,7 +38,7 @@ From there, you take a maximum 10 minute walk to the main building of the Univer
 There is a taxi queue in front of the airport terminals. The journey by taxi to the university campus takes just 30 minutes.
 
 ### By public transport (HVV)
-You can plan your journey using the Hamburg public transport website (HVV). 
+You can plan your journey using the Hamburg [public transport website (HVV)](https://www.hvv.de/en). 
 
 
 ## Agenda
