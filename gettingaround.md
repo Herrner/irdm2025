@@ -21,12 +21,6 @@ There are several cafes and restaurants within walking distance, offering a vari
 - Seoul 1988 Grindelallee https://www.seoul-1988-grindelhof-hamburg.de/
 
 
-Karaoke
-
-Thai Oase https://thai-oase.com/
-
-Im Seoul station kann man Karaoke-Räume buchen https://www.seoul-station-1988.de/
-
 
 ## Sightseeing
 The program leaves very little time for sightseeing :grin:, but if you have some time left, there are a lot of things you could do in Hamburg.  
