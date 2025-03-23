@@ -1,4 +1,4 @@
-# Getting around - Invenio RDM 2025 Partner Meeting
+# Getting around - [Invenio RDM 2025 Partner Meeting](readme.md)
 
 The location of the workshop is at the main campus of the University of Hamburg, and just 5 minutes away from the Dammtor train station. 
 
