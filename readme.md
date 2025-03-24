@@ -7,7 +7,7 @@ The event is open to all partners of the [Invenio RDM project](https://invenioso
 The meeting will tackle all topics related to the Invenio RDM project, including but not limited to development and roadmap, deployment and maintenance, dissemination and onboarding as well as governance and responsibilities.  
 On the first afternoon, we will be having presentations on what has been achieved (including a slot for presenting Invenio instances, see below) and what is planned for the coming year. The rest of the schedule of the meeting will be determined as an open space event, where the participants will decide on the topics to be discussed. 
 Please suggest topics that you want ~~either~~ to discuss in the Open Space sessions ~~or present on the first afernoon in advance~~, using this document:
-### -> [Suggest a topic](https://cloud.uni-hamburg.de/apps/files/files/35558493?dir=/FDM/Invenio%20RDM/Workshop%202025/Public&openfile=true)
+### -> [Suggest a topic](https://cloud.uni-hamburg.de/s/t9wgtnpmQxeGKYA)
 
 
 ## Invenio-Instance-Rodeo
